@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HDlfGsPWTsXMhp9O9l0N36hbKFZDxM9mjSuefbRmObg=",
+  "Source": "MultitenantService",
+  "BasePath": "_content/MultitenantService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
